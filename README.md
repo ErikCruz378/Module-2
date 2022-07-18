@@ -17,7 +17,7 @@
 ### WEBSITE PURPOSE AND GOALS ###
 
 1. PURPOSE
-        1. 
+    1. 
 2. GOALS
     1. PRIMARY GOALS
         1. Primary goal 1
