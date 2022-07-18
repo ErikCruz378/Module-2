@@ -14,4 +14,4 @@
 3. Conclusion
     1. Statement of conclusion saying my website is a e.g. An ecommerce website.
 
-### WEBSITE PURPOSE AND GOALS ###
+## WEBSITE PURPOSE AND GOALS ##
