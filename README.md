@@ -1,4 +1,4 @@
-## WEBSITE TYPE ##
+### WEBSITE TYPE ###
 
 1. Key characteristics
     1. description on characteristics 1
