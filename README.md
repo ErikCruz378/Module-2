@@ -40,3 +40,53 @@
 
 ### WEBSITE CONTENT: TEXT AND IMAGES ###
 
+1. RESEARCH WORK
+    1. blank
+2. TEXT
+    1. E.g., CALL TO ACTION
+        1. Call to action description here
+    2. E.g., SALES PITCH 1
+        1, Sales pitch description here
+    3. E.g., SALES PITCH 2
+        1. Sales pitch description here
+3. IMAGES
+    1. Image banks
+4. TOOLS
+    1. Text tool 1
+        1. Description
+5. ACCESSIBILITY
+    1. Accessibility consideration 1
+    2. Accessibility consideration 2
+    3. Etc
+
+### WEBSITE CONTENT: FUNDAMENTALS ###
+
+1. SITEMAP
+
+2. LAYOUT CONSIDERATIONS
+    1. Description
+3. TYPOGRAPHY
+    1. Font 1
+        1. Description of why you chose Font 1
+    2. etc
+4. COLORS
+    1. Color 1
+        1. Description of why you chose Color 1
+    2. etc
+5. SITEWIDE ACCESSIBILITY CONSIDERATIONS
+    1. Accessibility consideration 1
+        1. Description
+    2. Accessibility consideration 2
+        1. Description
+    3. Etc
+6. FUNCTIONALITY
+    1. Funtionality 1
+        1. Description
+    2. Etc
+7. TARGET AUDIENCE
+    1. Description of target audience
+
+
+
+
+
