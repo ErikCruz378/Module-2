@@ -17,7 +17,7 @@
 ### WEBSITE PURPOSE AND GOALS ###
 
 1. PURPOSE
-    1. 
+    1. blank
 2. GOALS
     1. PRIMARY GOALS
         1. Primary goal 1
@@ -26,8 +26,8 @@
         1. Secondary goal 1
         2. Secondary goal 2
 3. MILESTONES
-        1. E.g., Adding and item to a cart
-        2. E.g., Adding and email to a mailing list
+    1. E.g., Adding and item to a cart
+    2. E.g., Adding and email to a mailing list
 4. METRICS
         1. 
 5. ANALYTICS
