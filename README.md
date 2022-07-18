@@ -29,8 +29,14 @@
     1. E.g., Adding and item to a cart
     2. E.g., Adding and email to a mailing list
 4. METRICS
-        1. 
+        1. ALL METRICS
+            1. Metric 1
+            2. Metric 2
+        2. KPIs - Key performance indicators
+            1. E.g., Number of newsletters
 5. ANALYTICS
+    1. General (optional)
+    2. Tools
 
 ### WEBSITE CONTENT: TEXT AND IMAGES ###
 
