@@ -1,18 +1,18 @@
 ### WEBSITE TYPE ###
 
 1. KEY CHARACTERISTICS
-    1. description on characteristics 1
-    2. description on characteristics 2
-    3. description on characteristics 3
+    1. Game/esports news
+    2. Guides
+    3. Leaderboards
 2. SIMILAR WEBSITES
-    1. Website 1 - (web link)
-        1. Similarities of website 1 to my website
-        2. Similarities of website 2 to my website
-    2. Website 2 - (web link)
-        1. Similarities of website 1 to my website
-        2. Similarities of website 2 to my website
+    1. Tracker Network - https://tracker.gg/
+        1. Community made guides
+        2. Stats tracker
+    2. OP.GG - https://na.op.gg/
+        1. Leaderboard
+        2. Pro matches
 3. CONCLUSION
-    1. Statement of conclusion saying my website is a e.g. An ecommerce website.
+    1. My website will be an informational website
 
 ### WEBSITE PURPOSE AND GOALS ###
 
