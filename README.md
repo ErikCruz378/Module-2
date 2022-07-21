@@ -29,10 +29,10 @@
     1. Have different pages for player stats, esports, and character guides.
     2. Add latest game updates and esports news. Be able to watch pro macthes on site.
 4. METRICS
-        1. ALL METRICS
-            1. What pro team is most visited
-            2. Most popular character guides
-            3. Total number of visitors
+    1. ALL METRICS
+        1. What pro team is most visited
+        2. Most popular character guides
+        3. Total number of visitors
 5. ANALYTICS
     1. Google Analytics - https://analytics.google.com
     2. GTmetrix - https://gtmetrix.com/
