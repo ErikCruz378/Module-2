@@ -12,52 +12,43 @@
         1. Leaderboard
         2. Pro matches
 3. CONCLUSION
-    1. My website will be an informational website
+    1. My website will be an informational website.
 
 ### WEBSITE PURPOSE AND GOALS ###
 
 1. PURPOSE
-    1. blank
+    1. Players will be able to see their stats and also see how the pros are playing.
 2. GOALS
     1. PRIMARY GOALS
-        1. Primary goal 1
-        2. Primary goal 2
+        1. Player stats tracker
+        2. Showcase pro players, esports
     2. SECONDARY GOALS
-        1. Secondary goal 1
-        2. Secondary goal 2
+        1. What's being played
+        2. Guides
 3. MILESTONES
-    1. E.g., Adding and item to a cart
-    2. E.g., Adding and email to a mailing list
+    1. Have different pages for player stats, esports, and character guides.
+    2. Add latest game updates and esports news. Be able to watch pro macthes on site.
 4. METRICS
         1. ALL METRICS
-            1. Metric 1
-            2. Metric 2
-        2. KPIs - Key performance indicators
-            1. E.g., Number of newsletters
+            1. What pro team is most visited
+            2. Most popular character guides
+            3. Total number of visitors
 5. ANALYTICS
-    1. General (optional)
-    2. Tools
+    1. Google Analytics - https://analytics.google.com
+    2. GTmetrix - https://gtmetrix.com/
 
 ### WEBSITE CONTENT: TEXT AND IMAGES ###
 
-1. RESEARCH WORK
-    1. blank
-2. TEXT
-    1. E.g., CALL TO ACTION
-        1. Call to action description here
-    2. E.g., SALES PITCH 1
-        1, Sales pitch description here
-    3. E.g., SALES PITCH 2
-        1. Sales pitch description here
-3. IMAGES
-    1. Image banks
-4. TOOLS
-    1. Text tool 1
-        1. Description
-5. ACCESSIBILITY
-    1. Accessibility consideration 1
-    2. Accessibility consideration 2
-    3. Etc
+1. IMAGES
+    1. Shopify Burst - https://burst.shopify.com/
+    2. Iconizer - https://icons8.com/iconizer
+    3. Lorem Picsum - https://picsum.photos/
+2. TOOLS
+    1. Lorem Ipsum - https://www.lipsum.com/
+    2. Grammarly - https://www.grammarly.com/
+    3. Textise - https://www.textise.net/
+3. ACCESSIBILITY
+    1. Screenfly - https://bluetree.ai/screenfly/
 
 ### WEBSITE CONTENT: FUNDAMENTALS ###
 
