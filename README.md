@@ -53,38 +53,20 @@
 ### WEBSITE CONTENT: FUNDAMENTALS ###
 
 1. SITEMAP
-
-2. LAYOUT CONSIDERATIONS
-    1. Description
-3. TYPOGRAPHY
-    1. Font 1
-        1. Description of why you chose Font 1
-    2. etc
-4. COLORS
-    1. Color 1
-        1. Description of why you chose Color 1
-    2. etc
-5. SITEWIDE ACCESSIBILITY CONSIDERATIONS
-    1. Accessibility consideration 1
-        1. Description
-    2. Accessibility consideration 2
-        1. Description
-    3. Etc
-6. FUNCTIONALITY
-    1. Funtionality 1
-        1. Description
-    2. Etc
-7. TARGET AUDIENCE
-    1. Description of target audience
+https://www.gloomaps.com/rPgHhQbqEx
+2. FUNCTIONALITY
+    1. View pro matches live
+    2. Find out what the best characters are
+    3. Get recommended builds and guides for you 
+3. TARGET AUDIENCE
+    1. My target is anyone who plays the game and wants to view their own stats, finds guides for their character, get news on pro play.
 
 ### MOCKUP DESIGNS ###
 
 1. Mockup design 1
-    1. Description
-    2. Image/mockup
+
 2. Mockup design 2
-    1. Description
-    2. Image/mockup
+    
 
 
 
