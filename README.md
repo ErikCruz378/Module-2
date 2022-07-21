@@ -63,9 +63,9 @@ https://www.gloomaps.com/rPgHhQbqEx
 
 ### MOCKUP DESIGNS ###
 
-1. Mockup design 1
+1. https://www.figma.com/file/hat0BYAe6cTzQDOekGXi13/Module-2?node-id=0%3A1
 
-2. Mockup design 2
+2. https://www.figma.com/file/6V2c3b3h1tPwDyZ90rsX5j/OW?node-id=0%3A1
     
 
 
