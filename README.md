@@ -58,7 +58,7 @@
 
 1. SITEMAP
 https://www.gloomaps.com/rPgHhQbqEx
-
+<img width="567" alt="Screen Shot 2022-08-03 at 11 32 01 AM" src="https://user-images.githubusercontent.com/108141691/182668045-dad6cf3f-d16f-4826-894f-fd8c1452e42b.png">
 2. LAYOUT CHOICE
     1. Home page that leads to other webpages. Will be able to use navbar to navigate back to homepage or other pages.
 3. COLOR CHOICE
