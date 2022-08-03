@@ -77,6 +77,7 @@ https://www.gloomaps.com/rPgHhQbqEx
 ### MOCKUP DESIGNS ###
 
 1. https://www.figma.com/file/hat0BYAe6cTzQDOekGXi13/Module-2?node-id=0%3A1
+<img width="1308" alt="Screen Shot 2022-08-03 at 11 33 04 AM" src="https://user-images.githubusercontent.com/108141691/182668250-17507254-3822-451e-9915-12ed724ba244.png">
 
 2. https://www.figma.com/file/6V2c3b3h1tPwDyZ90rsX5j/OW?node-id=0%3A1
     
